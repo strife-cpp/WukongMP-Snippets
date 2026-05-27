@@ -4,7 +4,7 @@
 
 # Copied from build folder (bin/Configuration/netstandard2.0)
 $buildFiles = @(
-    "ExampleMod.dll"
+    "WukongMp.Snippets.dll"
 )
 
 # Copied from the "Content" folder to mod folder root
@@ -15,5 +15,5 @@ $contentFiles = @(
 
 # Copied from build folder to mod folder root (only in Debug builds)
 $debugBuildFiles = @(
-    "ExampleMod.pdb"
+    "WukongMp.Snippets.pdb"
 )
